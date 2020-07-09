@@ -1,3 +1,6 @@
+## Overview
+This code is modified from:
+https://www.kaggle.com/dskswu/topic-modeling-bert-lda
 ### Prepare Workspace
 * Create virtual environment (called ptorch):
     * run `conda env create --file ldabert.yml`
