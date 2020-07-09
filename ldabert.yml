@@ -341,5 +341,5 @@ dependencies:
     - termcolor==1.1.0
     - tokenizers==0.7.0
     - transformers==2.11.0
-prefix: C:\Users\DIOTJA\AppData\Local\Continuum\anaconda3\envs\ptorch
+
 
